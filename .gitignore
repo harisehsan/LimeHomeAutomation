@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Playwright test results and reports
+test-results/
+playwright-report/
+blob-report/
+trace.zip
+
+# TypeScript build output
+dist/
+out/
+*.tsbuildinfo
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Coverage reports (if using coverage)
+coverage/
+
+# XML or JUnit test reports (optional if generated in CI)
+results.xml
+
+# Last test run metadata
+.last-run.json

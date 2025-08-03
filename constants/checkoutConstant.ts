@@ -1,0 +1,1 @@
+export const MANDATORY_FIELD_ELEMENTS = ["first-name", "last-name", "email","telephone", "country-list"];

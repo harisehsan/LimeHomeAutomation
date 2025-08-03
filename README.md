@@ -1,7 +1,5 @@
 # LimeHomeAutomation
 
-# Limehome E2E Tests
-
 This repository contains **End-to-End (E2E) and API tests** for the Limehome project using:
 
 - Playwright

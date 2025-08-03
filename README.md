@@ -27,7 +27,7 @@ To run all tests, then execute the following command :
 1.	Goto the tests directory by using the command “cd .\tests\”
 2.	Then run “npx playwright test”
 
-To run the specific .spec file only use the following command (as an example):
+To run the specific .spec file only, use the following command (as an example):
 
 “npx playwright test ui/cart.spec.ts” in the tests directory
 

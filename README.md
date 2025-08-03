@@ -7,6 +7,10 @@ This repository contains **End-to-End (E2E) and API tests** for the Limehome pro
 - Page Object Model (POM)
 - API testing with Playwright
 
+To see the results of the last execution, in GitHub Action (CI):
+
+Go to the link: https://github.com/harisehsan/LimeHomeAutomation/actions/runs/16709213369/job/47291643615
+
 The prerequisites are required to run the tests locally:
 
 1.	Clone the repo “git clone https://github.com/harisehsan/LimeHomeAutomation.git”
